@@ -1,0 +1,40 @@
+body {
+    background-color: azure;
+}
+
+#container {
+    width: 600px;
+    margin: 0 auto 1px auto;
+}
+
+h1 {
+    color: brown;
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+section, img {
+    display: block;
+    border-style: groove;
+    border-color: rgb(177, 153, 153);
+    margin-bottom: 1px;
+}
+
+.text {
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+.text-center {
+    display: block;
+    text-align: center;
+}
+
+a {
+    color:crimson;
+}

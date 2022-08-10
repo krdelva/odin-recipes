@@ -1,0 +1,40 @@
+body {
+    background-color: azure;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+    border-style:groove;
+    border-color:rgb(177, 153, 153);
+}
+
+h1 {
+    color: brown;
+    text-decoration: underline;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+li {
+    list-style-type: none;
+    margin: 2px 0 2px 0;
+}
+
+a {
+    text-decoration: none;
+    color:brown;
+}
+
+p {
+    text-align: center;
+}
+
+.text {
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+}
